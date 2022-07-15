@@ -1,0 +1,4 @@
+Max Absolute Error:      80.25488246875011
+Max Percent Error:       3.2980698088710105
+Average Absolute Error:  12.678414138001685
+Average Percent Error:   0.5225308941184547           
